@@ -2,7 +2,7 @@
 <p>
 I am a full-stack developer with an emphasis in JavaScript and PHP.
 
-With over 8 years of professional experience in software development, I've gained a deep understanding and top-notch skills in JavaScript, TypeScript, PHP, React.js(Next.js, Redux, Redux Saga), Vue.js(Nuxt.js, Vux, Vuetify, Bootstrap Vue), Laravel(4,5,6,7,8,9), and Node.js.
+With over 8 years of professional experience in software development, I've gained a deep understanding and top-notch skills in JavaScript, TypeScript, PHP, React, Vue.js(Nuxt.js, Vux, Vuetify, Bootstrap Vue), Laravel(4,5,6,7,8,9), and Node.js.
 </p>
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg">
